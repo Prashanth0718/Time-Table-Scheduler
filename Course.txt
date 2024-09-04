@@ -1,0 +1,5 @@
+ToC	3 slots
+DBMS 3 slots
+AI	3 slots
+ML	3 slots
+NLP	3 slots
